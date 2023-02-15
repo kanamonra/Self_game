@@ -1,2 +1,3 @@
-public class Items {
+public interface Items {
+    void useItem();
 }

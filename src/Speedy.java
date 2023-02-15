@@ -1,2 +1,16 @@
-public class Speedy {
+public class Speedy extends Character{
+    public Speedy(){
+        hp = 300;
+        mp = 800;
+    }
+
+    @Override
+    void attack() {
+
+    }
+
+    @Override
+    void info() {
+
+    }
 }
