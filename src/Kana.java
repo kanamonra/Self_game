@@ -3,10 +3,6 @@ public class Kana extends Character{
         hp = 300;
         mp = 800;
     }
-    @Override
-    void attack() {
-
-    }
 
     @Override
     void info() {

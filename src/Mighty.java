@@ -4,10 +4,6 @@ public class Mighty extends Character{
         mp = 400;
     }
 
-    @Override
-    void attack() {
-
-    }
 
     @Override
     void info() {
